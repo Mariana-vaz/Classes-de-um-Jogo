@@ -6,4 +6,4 @@ Enquanto eu ia fundo no curso de Introdução à Programação em 2024, criei es
 - **O que aprendi:** Como usar classes, construtores e loops pra organizar código.
 - **Momento top:** Testar os ataques e ver cada herói reagir diferente no console!
 
-Feito por mim, Mariana, na minha jornada inicial de programação durante a transição de carreira.
+Feito por mim, Mariana, como um marco divertido na minha transição pra tech
